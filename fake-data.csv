@@ -61,7 +61,7 @@ ID;parent;name;phone;address;latlng;text;birth_date;city
 60;19;Deborah Miles;(053) 29993536;5520 Eget Ave;47.40782, -48.75617;pellentesque, tellus sem mollis dui, in sodales elit erat vitae;1984-11-15 08:14:03;Whitchurch
 61;11;Blair Hensley;(00582) 6003452;595-5385 Velit Av.;19.35317, 100.51599;in felis. Nulla tempor augue ac ipsum. Phasellus vitae mauris;1983-11-11 13:08:51;Sint-Jans-Molenbeek
 62;46;Darryl Rivers;(01363) 9927069;Ap #844-9215 Non Street;-40.26879, -168.82264;Donec elementum, lorem ut aliquam iaculis, lacus pede sagittis augue,;1988-06-19 06:46:42;Honolulu
-63;37;Iola Mann;(07500) 8443795;266-6962 Velit St.;-24.9492, -87.0016;"ultrices posuere cubilia Curae; Phasellus ornare. Fusce mollis. Duis sit";1983-12-21 18:59:50;Santo Stefano del Sole
+63;37;Iola Mann;(07500) 8443795;266-6962 Velit St.;-24.9492, -87.0016;'ultrices posuere cubilia Curae; Phasellus ornare. Fusce mollis. Duis sit';1983-12-21 18:59:50;Santo Stefano del Sole
 64;11;Myra Dale;(032510) 147229;P.O. Box 759, 3899 Amet Street;45.54056, -63.71654;metus vitae velit egestas lacinia. Sed congue, elit sed consequat;1985-01-29 00:42:11;Radom
 65;25;Cassandra Booth;(033946) 009203;9875 Nisl St.;-32.40404, -134.84632;Praesent interdum ligula eu enim. Etiam imperdiet dictum magna. Ut;1981-10-04 00:55:48;Morwell
 66;14;Roary Guzman;(031160) 073901;462-8957 Semper Road;7.69764, 49.61107;Nunc sed orci lobortis augue scelerisque mollis. Phasellus libero mauris,;1985-03-30 17:14:49;Curicó
